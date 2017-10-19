@@ -1,0 +1,22 @@
+{
+  "apiindex" : {
+    "name": "API手册首页",
+    "url": "api/index.html"
+  },
+  "apimodules" : {
+    "name": "模块分类",
+    "url": "api/modules.html"
+  },
+  "apinamespaces" : {
+    "name": "名称空间分类",
+    "url": "api/namespaces.html"
+  },
+  "apiglobals" : {
+    "name": "全局定义",
+    "url": "api/globals.html"
+  },
+  "apifiles" : {
+    "name": "所有头文件",
+    "url": "api/files.html"
+  }
+}

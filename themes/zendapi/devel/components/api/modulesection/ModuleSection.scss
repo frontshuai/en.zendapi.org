@@ -1,0 +1,13 @@
+.module-section-container {
+  margin-top: 20px;
+  @media (min-width: 640px) {
+    margin-top: 40px;
+  }
+  .define {
+    font-size: 1em;
+    a {
+      font-size: 1.2em;
+    }
+    margin-top: 5px!important;
+  }
+}

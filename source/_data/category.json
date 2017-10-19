@@ -1,0 +1,16 @@
+[{
+  "name": "网站首页",
+  "url": "/"
+},{
+  "name": "手册",
+  "url": "/manual"
+},{
+  "name": "API文档",
+  "url": "/api"
+}, {
+  "name": "博客",
+  "url": "/blog"
+}, {
+  "name": "关于我们",
+  "url": "/about"
+}]
